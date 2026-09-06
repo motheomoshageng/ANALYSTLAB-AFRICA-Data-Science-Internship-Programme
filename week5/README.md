@@ -72,8 +72,4 @@ This week's feature-level findings are directly reusable by the Data Analytics t
 candidate KPI definitions or EDA talking points, since both tracks are analyzing the same
 underlying appointment behavior from different angles.
 
-## Next Step
 
-Week 6: fairness/error-rate evaluation across `gender` and `age_group`, hyperparameter tuning,
-and a business-defined trade-off between false negatives and false positives to guide model
-selection.
